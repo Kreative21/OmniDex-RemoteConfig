@@ -1,17 +1,17 @@
 {
-  "id": "Test3",
+  "id": "Test4",
   "enabled": true,
   "type": "Announcement",
   "title": "Welcome to OmniDex version Test!",
   "subtitle": "New Features Available",
   "description": "This is just for Testing Notices in app. Your backups now automatically save to your public Documents folder for easier access! You can toggle it inside Settings.\n\nEnjoy the update!",
-  "imageUrl": "https://i.ibb.co/SDvp75YT/image.png",
+  "imageUrl": "",
   "buttonText": "Read Changelog",
   "actionUrl": "https://www.pinterest.com/pin/767934174006236156/",
   "startTime": null,
   "endTime": null,
   "frequency": "always",
-  "dismissible": false,
+  "dismissible": true,
   "minAppVersion": 9,
   "targetAppVersions": null
 }
