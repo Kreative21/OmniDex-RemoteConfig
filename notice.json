@@ -1,5 +1,5 @@
 {
-  "id": "Test2",
+  "id": "Test3",
   "enabled": true,
   "type": "Announcement",
   "title": "Welcome to OmniDex version Test!",
@@ -11,7 +11,7 @@
   "startTime": null,
   "endTime": null,
   "frequency": "always",
-  "dismissible": true,
+  "dismissible": false,
   "minAppVersion": 9,
   "targetAppVersions": null
 }
