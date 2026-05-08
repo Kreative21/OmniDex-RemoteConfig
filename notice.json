@@ -1,7 +1,7 @@
 {
-  "id": "Test4",
+  "id": "Test5",
   "enabled": true,
-  "type": "Announcement",
+  "type": "Notice",
   "title": "Welcome to OmniDex version Test!",
   "subtitle": "New Features Available",
   "description": "This is just for Testing Notices in app. Your backups now automatically save to your public Documents folder for easier access! You can toggle it inside Settings.\n\nEnjoy the update!",
