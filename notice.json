@@ -10,7 +10,7 @@
   "actionUrl": "https://www.pinterest.com/pin/767934174006236156/",
   "startTime": null,
   "endTime": null,
-  "frequency": "once",
+  "frequency": "always",
   "dismissible": true,
   "minAppVersion": 9,
   "targetAppVersions": null
