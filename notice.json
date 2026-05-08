@@ -1,11 +1,11 @@
 {
-  "id": "notice_v2.19.7_announcement1",
+  "id": "notice_v2.19.7_announcement",
   "enabled": true,
   "type": "Announcement",
   "title": "Welcome to OmniDex v2.19.7!",
   "subtitle": "New Features Added",
   "description": "We have added the New Auto Backup system. Your backups now automatically save to your Mobile for easier access! You can enable it inside the Settings.\n\nEnjoy the update!",
-  "imageUrl": "https://i.ibb.co/gb8t4MZc/bkup.png",
+  "imageUrl": "https://i.ibb.co/wFdqt6Ss/bkup.png",
   "buttonText": "Read Changelog",
   "actionUrl": "https://github.com/Kreative21/OmniDex/releases/tag/v2.19.7",
   "startTime": null,
