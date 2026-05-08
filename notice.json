@@ -1,6 +1,6 @@
 {
-  "id": "notice_scroll_test_v1",
-  "enabled": false,
+  "id": "notice_scroll_test_v2",
+  "enabled": true,
   "type": "Announcement",
   "title": "OmniDex Scroll Test Notice",
   "subtitle": "Testing long content rendering and scrolling behavior",
