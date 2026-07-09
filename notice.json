@@ -13,5 +13,5 @@
   "frequency": "once",
   "dismissible": true,
   "minAppVersion": 9,
-  "targetAppVersions": 10
+  "targetAppVersions": 2.19.9
 }
